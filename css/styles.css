@@ -1,0 +1,22 @@
+.img-resize {
+	width: 200px;
+	height: auto;
+}
+
+.name-heading {
+	font-weight: 800;
+	text-decoration: underline;
+	text-transform: capitalize;
+}
+
+.mt20 {
+	margin-top: 20px;
+}
+
+.margin-none {
+	margin: 0;
+}
+
+.fs13 {
+	font-size: 13px;
+}
